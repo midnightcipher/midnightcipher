@@ -5,7 +5,7 @@ namespace AshBaker;
 
 class About extends Me
 {
-	/* Workplace */ 
+    /* Workplace */ 
     public function getCurrentWorkplace()
     {
         return [
