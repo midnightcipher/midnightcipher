@@ -5,7 +5,6 @@ namespace AshBaker;
 
 class About extends Me
 {
-    /* Workplace */ 
     public function getCurrentWorkplace()
     {
         return [
@@ -16,7 +15,6 @@ class About extends Me
         ];
     }
 
-    /* Primary skills/knowledge */
     public function getDailyKnowledge()
     {
         return [
@@ -30,8 +28,7 @@ class About extends Me
             Aws::class,
         ];
     }
-	
-    /* Relevant goal */
+
     public function getFutureGoal()
     {
         return 'To contribute to open source.';
