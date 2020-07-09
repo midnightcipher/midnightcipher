@@ -31,7 +31,7 @@ class About extends Me
         ];
     }
 	
-	/* Relevant goal */
+    /* Relevant goal */
     public function getFutureGoal()
     {
         return 'To contribute to open source.';
