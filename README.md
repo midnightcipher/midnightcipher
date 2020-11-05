@@ -5,7 +5,7 @@ namespace AshBaker;
 
 class About extends Me
 {
-    public function getCurrentWorkplace()
+    public function getCurrentWorkplace(): array
     {
         return [
             'workplace' => [
@@ -15,7 +15,7 @@ class About extends Me
         ];
     }
 
-    public function getDailyKnowledge()
+    public function getDailyKnowledge(): array
     {
         return [
             Php::class,
@@ -29,7 +29,7 @@ class About extends Me
         ];
     }
 
-    public function getFutureGoal()
+    public function getFutureGoal(): string
     {
         return 'To contribute to open source.';
     }
