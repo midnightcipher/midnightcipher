@@ -10,7 +10,7 @@ class About extends Me
         return [
             'workplace' => [
                 'company' => 'Qquicker',
-                'position' => 'Product Owner'         
+                'position' => 'Founder'         
             ]
         ];
     }
