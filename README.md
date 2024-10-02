@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ashton!
+# 👋 Hey there, I'm Ash!
 **Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.**
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
