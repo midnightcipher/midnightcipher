@@ -10,10 +10,10 @@
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
+With a strong focus on **engineering leadership**, I thrive on building high-performing teams and delivering scalable, innovative solutions that drive real impact. My passion lies in **customer experience** and **cloud and infrastructure technologies**, where I turn complex challenges into opportunities for growth.
 
-- 🔭 Currently working on top-secret projects to reshape industries.
-- 🌱 Always expanding my knowledge and contributing to open-source communities.
-- 🚀 On a mission to push the boundaries of what's possible with code.
+🔭 Leading teams on transformative projects to reshape industries.
 
+🌱 Continuously learning and empowering others through mentorship and collaboration.
 
+🚀 Dedicated to pushing the boundaries of technology while fostering a culture of excellence.
